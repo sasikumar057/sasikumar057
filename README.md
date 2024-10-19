@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Sasikumar<br><br>- 🔭 I’m a Student <br>- 📚 I'm currently learning full stack<br>- ⚡ In my free time, I listen a song</p>
+<p align="left">I'm Sasikumar<br><br>- 🔭 I’m a Student <br>- 📚 I'm currently learning full stack</p>
 
 ###
 
